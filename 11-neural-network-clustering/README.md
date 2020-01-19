@@ -12,7 +12,7 @@ The gas neural network algorithm is one of the competing neural networks that us
 
 To run the project, first install the necessary libraries like numpy, scipy, matplotlib, etc. and run the main.py file to save the results to the results folder after the execution.
 The main steps of the project are as follows (main.py)
-##Algoritm
+## Algoritm
 gas neural network algorithm .
 • Import the necessary libraries and functions written in the funcs.py file
 from scipy.io import loadmat
